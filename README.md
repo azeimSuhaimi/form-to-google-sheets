@@ -2,7 +2,7 @@
 
 #### How to create an HTML form that stores the submitted form data in Google Sheets using plain 'ol JavaScript (ES6), [Google Apps Script](https://developers.google.com/apps-script/), [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData).
 
-## 1. Create a new Google Sheet
+## 1. Create a new Google Sheet xsadxsad
 
 - First, go to [Google Sheets](https://docs.google.com/spreadsheets) and `Start a new spreadsheet` with the `Blank` template.
 - Rename it `Email Subscribers`. Or whatever, it doesn't matter.
